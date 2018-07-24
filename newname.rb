@@ -5,5 +5,4 @@ def say_hello
   my_name = "Bhavana"
   puts "Hello #{your_name}! I'm #{my_name}"
 end 
-
 say_hello
