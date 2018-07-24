@@ -1,5 +1,5 @@
 
-def say_hello(your_name)
+def say_hello
   puts "What's your name?"
   your_name = gets.chomp
   my_name = "Bhavana"
