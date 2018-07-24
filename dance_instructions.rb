@@ -8,11 +8,11 @@ def lower_body
   puts "Finishing with a small skip-step backward"
 end
 
-def skip_step(foot)
-  puts" Lower #{foot} to the ground"
-  puts "Bounce #{foot} back up slightly, kicking it a few inches back"
-  puts "Left, Right, Left and Left"
-end
+	def skip_step(starting_foot)
+	  puts "Lower #{starting_foot} to the ground"
+	  puts "Bounce #{starting_foot} back up slightly, kicking it a few inches back"
+	  puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
+	end
 
 def bob_the_reins
   puts "Holding your arms out in front of you, straight and at chest level"
