@@ -1,7 +1,6 @@
 def say_hello(name)
-  name("Alana!")
-  name("SMoney!")
-  name("Madison!")
+  puts "Hello #{name}!"
 end 
-
-say_hello
+  name("Alana")
+  name("SMoney")
+  name("Madison")
