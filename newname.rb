@@ -1,4 +1,3 @@
-
 def say_hello
   puts "What's your name?"
   your_name = gets.chomp
